@@ -24,3 +24,7 @@ Run the tool
 [![asciicast](https://asciinema.org/a/RyfDy6Cuy5wv2DwKTKnZFW1ca.svg)](https://asciinema.org/a/RyfDy6Cuy5wv2DwKTKnZFW1ca)
 
 Found 1 file Note, but seems there is no flag in that, flag found in main.py
+use the grep cmd to find out the flag
+```
+grep -r -i "flag" .
+```
